@@ -53,7 +53,7 @@
 
 <footer class="footer">
     <div class="container">
-        <p class="text-muted">© Kim Heyse Erasmus Hogeschool Brussel</p>
+        <p class="text-muted">&copy; Kim Heyse Erasmus Hogeschool Brussel</p>
     </div>
 </footer>
 <!-- jQuery first, then Bootstrap JS. -->
