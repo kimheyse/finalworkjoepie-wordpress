@@ -1,0 +1,38 @@
+/*
+	Theme Name: Thema Kim Old
+	Theme URI: https://wiven.be
+	Description: Theme Kim Heyse Final Work Joepie, created by WiVen Web Solutions especially for Kim Heyse! BAM!
+	Version: 1.0.0
+	Author: WiVen Web Solutions
+	Tags: Blank, HTML5, CSS3
+*/
+
+* {
+color: red !important;
+}
+
+.card-title{
+    color: grey;
+    background-color: pink;
+}
+
+a:link {
+    color: rgba(52, 52, 52, 0.95);
+}
+
+/* visited link */
+a:visited {
+    color: rgba(52, 52, 52, 0.95);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgba(42, 81, 99, 0.86);
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: rgba(42, 81, 99, 0.86);
+    text-decoration: none;
+}

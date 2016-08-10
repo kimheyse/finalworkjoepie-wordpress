@@ -1,0 +1,103 @@
+/*
+	Theme Name: Thema Kim
+	Theme URI: https://wiven.be
+	Description: Theme Kim Heyse Final Work Joepie, created by WiVen Web Solutions especially for Kim Heyse! BAM!
+	Version: 1.0.0
+	Author: WiVen Web Solutions
+	Tags: Blank, HTML5, CSS3
+*/
+
+/* GENERAL VARIABLES */
+@import 'https://fonts.googleapis.com/css?family=Lato';
+/* COLORS */
+/* FONT SIZES */
+h4 {
+  color: pink;
+  font-size: 30px;
+  font-family: "Lato", sans-serif; }
+
+.navbar {
+  background-color: lightgray;
+  font-size: 20px; }
+
+.navbar-brand {
+  font-size: 20px; }
+
+.card {
+  font-family: "Lato", sans-serif; }
+
+.btn-info-outline {
+  background-color: pink;
+  border-color: pink;
+  color: #FFFFFF; }
+
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px; }
+
+.bigicon {
+  font-size: 35px;
+  color: #36A0FF; }
+
+.verplicht {
+  color: lightgray; }
+
+.card {
+  border-width: 0; }
+
+.card-block {
+  padding-left: 0;
+  padding-right: 0; }
+
+form {
+  margin: 30px; }
+
+footer {
+  margin-top: 50px; }
+
+
+.card-title{
+    color: grey;
+    background-color: pink;
+padding: 0.25em 0.5em;
+}
+
+a:link {
+    color: rgba(52, 52, 52, 0.95);
+}
+
+/* visited link */
+a:visited {
+    color: rgba(52, 52, 52, 0.95);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgba(42, 81, 99, 0.86);
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: rgba(42, 81, 99, 0.86);
+    text-decoration: none;
+}
+
+#menu-menu {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.menu-item {
+  float: left;
+  margin: 0 1em;
+}
+
+@media (max-width: 750px) {
+	.row {
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
